@@ -1,0 +1,888 @@
+LAST SEEN   TYPE      REASON        OBJECT         MESSAGE
+15m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+39m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+25m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+37m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+27m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+60m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+58m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+23m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+29m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+21m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+41m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+31m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+56m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+33m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+19m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+43m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+35m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+37m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+53m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+39m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+41m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+43m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+45m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+47m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+51m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+49m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+51m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+53m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+55m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+49m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+57m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+59m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+35m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+17m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+47m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+107s        Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+33m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+3m37s       Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+45m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+31m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+45m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+5m39s       Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+13m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+47m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+7m43s       Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+29m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+27m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+43m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+25m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+23m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+21m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+9m49s       Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+19m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+17m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+41m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+15m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+13m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+11m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+11m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+9m28s       Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+39m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+7m23s       Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+5m20s       Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+13m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+3m18s       Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+86s         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+38m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+59m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+15m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+57m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+18m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+35m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+56m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+20m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+53m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+21m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+33m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+51m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+23m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+49m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+59m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+31m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+25m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+57m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+47m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+27m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+11m         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+29m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+93s         Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+29m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+48m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+55m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+100s        Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+27m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+3m31s       Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+5m34s       Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+7m37s       Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+9m42s       Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+11m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+25m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+13m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+15m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+17m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+19m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+23m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+21m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+23m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+25m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+27m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+31m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+9m35s       Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+22m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+51m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin2
+29m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+3m25s       Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin2
+33m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+35m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+20m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+37m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+39m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+31m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+53m         Normal    Scheduled     pod/yolo-pos   Successfully assigned default/yolo-pos to gpu-orin3
+5m27s       Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+18m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+41m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+43m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin3
+45m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+33m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+47m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+16m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+49m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+51m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+7m30s       Normal    Scheduled     pod/yolo-obb   Successfully assigned default/yolo-obb to gpu-orin3
+53m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+35m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+56m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+13m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+58m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+59m         Normal    Scheduled     pod/yolo-det   Successfully assigned default/yolo-det to gpu-orin2
+45m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+113s        Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+3m43s       Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+11m         Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+37m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+43m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+41m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin3
+5m45s       Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+7m50s       Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin2
+9m55s       Normal    Scheduled     pod/yolo-cls   Successfully assigned default/yolo-cls to gpu-orin3
+39m         Normal    Scheduled     pod/yolo-seg   Successfully assigned default/yolo-seg to gpu-orin2
+60m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-tw2ml" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (27218f4e-dd7b-4c69-bb41-caa7e460e31e) does not match the UID in record. The object might have been deleted and then recreated
+60m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+60m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+60m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+59m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-cwj5t" : failed to fetch token: pod "yolo-det" not found
+59m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-cwj5t" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (0220aa05-9219-466a-bcc0-e363b9e76644) does not match the UID in record. The object might have been deleted and then recreated
+59m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+59m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+59m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+59m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+59m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+59m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+59m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-cq7d9" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (ce6988a7-4512-4e74-9995-8abb1c3e3ea7) does not match the UID in record. The object might have been deleted and then recreated
+59m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+59m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+59m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+59m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-rsjpx" : failed to fetch token: pod "yolo-pos" not found
+59m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+59m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+59m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-rsjpx" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (651cc9be-4194-4f52-a080-6acc2a9df556) does not match the UID in record. The object might have been deleted and then recreated
+59m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+58m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+58m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+58m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+58m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+58m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+58m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-27qsl" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (8ff459e6-b669-4c01-b8df-3d2ee1984189) does not match the UID in record. The object might have been deleted and then recreated
+58m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+58m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+58m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+58m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-85hzn" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (335a09bf-0af2-43b5-a6cd-4df6cfa63361) does not match the UID in record. The object might have been deleted and then recreated
+58m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+58m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+57m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+57m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-h7cnj" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+57m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+57m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+57m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+57m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+57m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+57m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+57m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+57m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+57m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-ptmgt" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (41f8fe15-4d5a-4967-8e30-5e8cb1b652fb) does not match the UID in record. The object might have been deleted and then recreated
+57m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+57m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+57m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+57m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+57m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+57m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+56m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-nftsv" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (14b21a0b-d576-4859-aa87-1972e44dfa3d) does not match the UID in record. The object might have been deleted and then recreated
+56m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+56m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+56m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+56m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+56m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+56m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+55m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+55m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+55m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+55m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+55m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+55m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+55m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-sstzm" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (4c0ba1a8-ae11-4fa6-b644-fe91b28895d4) does not match the UID in record. The object might have been deleted and then recreated
+55m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-sstzm" : failed to fetch token: pod "yolo-pos" not found
+55m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "yolo-share-pv" : mount failed: exit status 32...
+55m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+55m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+55m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+54m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+54m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+54m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+54m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+54m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+53m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-zczbt" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (901121e6-f6f9-4c57-9133-b08b73e329b1) does not match the UID in record. The object might have been deleted and then recreated
+53m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+53m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+53m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+53m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+53m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+53m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+53m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-s77qk" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (0fd9cc8b-97e1-4367-858b-d4a161e2beb4) does not match the UID in record. The object might have been deleted and then recreated
+53m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+53m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+53m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+53m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+53m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+53m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+53m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-tswdb" : failed to fetch token: pod "yolo-pos" not found
+53m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+53m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-tswdb" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (e8115921-9b80-4870-a5f7-fe7b5f4a132c) does not match the UID in record. The object might have been deleted and then recreated
+53m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+53m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+52m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+52m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+52m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+52m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+52m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+51m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+51m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+51m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+51m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+51m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+51m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+51m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+51m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+51m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+51m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-f47z5" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (22840e55-95db-4160-bdba-0d6aab99897d) does not match the UID in record. The object might have been deleted and then recreated
+51m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+51m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+51m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+51m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-46jlx" : failed to fetch token: pod "yolo-pos" not found
+51m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+51m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+51m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+50m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+50m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+50m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+50m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+50m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+49m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+49m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+49m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+49m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-wbnx4" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (f71cb230-4324-431d-9c7b-33fb4aeff05a) does not match the UID in record. The object might have been deleted and then recreated
+49m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+49m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+49m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+49m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+49m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+49m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+49m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-7mnl2" : failed to fetch token: pod "yolo-obb" not found
+49m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+49m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+49m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+48m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+48m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+48m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-vlxrv" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (48e07f82-7530-4fa0-a1be-c6bac49c6fb2) does not match the UID in record. The object might have been deleted and then recreated
+48m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+48m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+48m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+48m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+48m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+48m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+47m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-gmj69" : failed to fetch token: pod "yolo-cls" not found
+47m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+47m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+47m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+47m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+47m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+47m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+47m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-l5nwd" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+47m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-l5nwd" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (38385185-4a6e-48e1-af78-b1f764702000) does not match the UID in record. The object might have been deleted and then recreated
+47m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+47m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+47m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+47m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-cdbz7" : failed to fetch token: pod "yolo-obb" not found
+47m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+47m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+47m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-cdbz7" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (78d398e9-c3c2-42e9-8374-1ec50f9aa1aa) does not match the UID in record. The object might have been deleted and then recreated
+47m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+47m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-9l86d" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (11a3e275-977e-450d-91e6-1ffc4bf9e45f) does not match the UID in record. The object might have been deleted and then recreated
+47m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+47m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+47m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+46m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+46m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+46m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+46m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+46m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+45m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-dpsp5" : failed to fetch token: pod "yolo-cls" not found
+45m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-dpsp5" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (64891408-6adb-41f1-bb64-047ac7933564) does not match the UID in record. The object might have been deleted and then recreated
+45m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+45m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+45m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+45m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-jpg9s" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (98e6bfe9-ce17-4d0f-9245-8d80515242c8) does not match the UID in record. The object might have been deleted and then recreated
+45m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+45m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+45m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+45m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-j4ps9" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+45m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+45m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+45m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-j4ps9" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (56af59c7-a856-4ca6-b640-c24faecc9635) does not match the UID in record. The object might have been deleted and then recreated
+45m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+45m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+45m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+45m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+45m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-5jhk6" : failed to fetch token: pod "yolo-pos" not found
+45m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+45m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+45m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-5jhk6" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (1b656608-54c0-469d-adb7-1fd764c336a9) does not match the UID in record. The object might have been deleted and then recreated
+45m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+44m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+44m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+44m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+44m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+44m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+43m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+43m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+43m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-pk6kd" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+43m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-pk6kd" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (0e8cc2ae-ec26-4566-840c-2265738485e1) does not match the UID in record. The object might have been deleted and then recreated
+43m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+43m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-86b6x" : failed to fetch token: pod "yolo-det" not found
+43m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+43m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+43m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+43m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+43m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+43m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+43m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+43m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+43m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+43m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-85fvn" : failed to fetch token: pod "yolo-pos" not found
+43m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+43m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+43m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+42m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+42m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+42m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+42m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+42m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+41m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-qp4gn" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+41m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+41m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+41m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+41m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+41m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+41m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+41m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-zvj2w" : failed to fetch token: pod "yolo-seg" not found
+41m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+41m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-zvj2w" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (527fe7de-fffe-4f05-ab3b-11c24a483b02) does not match the UID in record. The object might have been deleted and then recreated
+41m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+41m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+41m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-zm6m8" : failed to fetch token: pod "yolo-obb" not found
+41m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+41m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+41m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+41m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+41m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-59tq9" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (57f817b4-64b0-40ea-871b-465a55ac42ba) does not match the UID in record. The object might have been deleted and then recreated
+41m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+41m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+40m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+40m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+40m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+40m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+40m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+39m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-hv526" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (7bbd3b41-3e1f-4acb-8f94-44b50f47bcdc) does not match the UID in record. The object might have been deleted and then recreated
+39m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+39m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+39m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+39m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-fsn8c" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (edc9d4c3-5bfe-4cee-8190-9e539d1d663b) does not match the UID in record. The object might have been deleted and then recreated
+39m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+39m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+39m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+39m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-9fvgw" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (53df270c-3887-4b20-8da8-6295e7538326) does not match the UID in record. The object might have been deleted and then recreated
+39m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-9fvgw" : failed to fetch token: pod "yolo-seg" not found
+39m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+39m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+39m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+39m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-2w99w" : failed to fetch token: pod "yolo-obb" not found
+39m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+39m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+39m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+39m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-ltrgg" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (3b8158cb-9755-4b42-b08b-a9429ab8af72) does not match the UID in record. The object might have been deleted and then recreated
+39m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+39m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+39m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+38m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+38m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+38m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+38m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+38m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+38m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+38m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+37m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+37m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-dflgw" : failed to fetch token: pod "yolo-det" not found
+37m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+37m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+37m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+37m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-79rq9" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (7c2a8988-483a-4cbb-ae56-4098da8941b1) does not match the UID in record. The object might have been deleted and then recreated
+37m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-79rq9" : failed to fetch token: pod "yolo-seg" not found
+37m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+37m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+37m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+37m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-drv68" : failed to fetch token: pod "yolo-obb" not found
+37m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+37m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+37m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+37m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-tsvfq" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (3de2c794-7cd2-44e1-ab27-1dab7d6f7e3c) does not match the UID in record. The object might have been deleted and then recreated
+37m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+37m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+37m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+36m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+36m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+36m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+36m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+36m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+35m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+35m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+35m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+35m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+35m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+35m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+35m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-56pj7" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (d617c3ff-421d-498c-b388-c13e861546c0) does not match the UID in record. The object might have been deleted and then recreated
+35m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+35m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+35m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+35m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+35m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+35m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+35m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-mjsxs" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (65f08b7f-60ed-45fd-848c-c840d8585fc3) does not match the UID in record. The object might have been deleted and then recreated
+35m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+35m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+35m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+34m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+34m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+34m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+34m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+34m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+33m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+33m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+33m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+33m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-v4rpk" : failed to fetch token: pod "yolo-det" not found
+33m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+33m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+33m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+33m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-z8xx7" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+33m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+33m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+33m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+33m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+33m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+33m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+33m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-msq57" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (29be50e8-7480-4644-896f-e3a8f3d5dbc8) does not match the UID in record. The object might have been deleted and then recreated
+33m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+33m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+33m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+32m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+32m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+32m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+32m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+32m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+31m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-nllzk" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (61e2b578-bcaf-44d4-9857-3917ad9c7b36) does not match the UID in record. The object might have been deleted and then recreated
+31m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+31m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+31m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+31m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+31m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-l8tbg" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (fa96ff09-f77a-4298-b54d-7380e5d34624) does not match the UID in record. The object might have been deleted and then recreated
+31m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+31m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+31m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-6wnwb" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (f82a3a18-3180-4224-a755-8ca94756881d) does not match the UID in record. The object might have been deleted and then recreated
+31m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+31m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+31m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+31m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-4pxv8" : failed to fetch token: pod "yolo-obb" not found
+31m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+31m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+31m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+31m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-fdg25" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (2b75bdbf-bd43-48df-9535-470dbb07a8fc) does not match the UID in record. The object might have been deleted and then recreated
+31m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+31m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+31m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+30m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+30m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+30m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+30m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+30m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+29m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+29m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-2jbpd" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (637ab5f5-3302-428c-9860-5b596be57cfb) does not match the UID in record. The object might have been deleted and then recreated
+29m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+29m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+29m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-tvs2s" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (89b1facd-611f-4179-a961-cb70da0d67ff) does not match the UID in record. The object might have been deleted and then recreated
+29m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+29m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+29m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+29m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+29m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+29m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+29m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-6xx4w" : failed to fetch token: pod "yolo-obb" not found
+29m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+29m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+29m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+29m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-h4vxx" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (0558143b-dd89-4799-ba6d-f94601c8ce0a) does not match the UID in record. The object might have been deleted and then recreated
+29m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+29m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+28m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+28m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+28m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+28m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+28m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+28m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+27m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-stl9s" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+27m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+27m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+27m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+27m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-5pq9v" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (fd202d08-3653-49af-b50a-38a18ea1921b) does not match the UID in record. The object might have been deleted and then recreated
+27m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+27m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+27m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+27m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-6nrhk" : failed to fetch token: pod "yolo-seg" not found
+27m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+27m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-6nrhk" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (c32a9404-12b5-4dfb-8896-7b5be49b25af) does not match the UID in record. The object might have been deleted and then recreated
+27m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+27m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+27m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-26s4t" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (fdfdcabf-a093-475c-b2ac-c2d7eabc22f0) does not match the UID in record. The object might have been deleted and then recreated
+27m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+27m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+27m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+27m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+27m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+27m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+26m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+26m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+26m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+26m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+26m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+25m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+25m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+25m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+25m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-mgmz2" : failed to fetch token: pod "yolo-det" not found
+25m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+25m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+25m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+25m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+25m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-qvt7n" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (cb05074e-4577-4202-85c0-b3865e3f6011) does not match the UID in record. The object might have been deleted and then recreated
+25m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+25m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+25m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-qqlgr" : failed to fetch token: pod "yolo-obb" not found
+25m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+25m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+25m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+25m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-p5m2b" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (24e4eda6-f5b2-4c8b-9184-d32e3fa6ec6f) does not match the UID in record. The object might have been deleted and then recreated
+25m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+25m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+25m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+24m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+24m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+24m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+24m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+24m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+23m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-469ds" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+23m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-469ds" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (e705e85e-78a6-4e52-b199-ae9244bfc55f) does not match the UID in record. The object might have been deleted and then recreated
+23m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+23m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+23m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+23m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-p4s9d" : failed to fetch token: pod "yolo-det" not found
+23m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-p4s9d" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (6c39eb76-492e-43a3-bb83-eb4d5942c83c) does not match the UID in record. The object might have been deleted and then recreated
+23m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+23m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+23m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+23m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+23m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+23m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+23m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+23m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+23m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+23m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-9lzr4" : failed to fetch token: pod "yolo-pos" not found
+23m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+23m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-9lzr4" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (eec007e1-8782-4bc3-a00d-2193b1beb90f) does not match the UID in record. The object might have been deleted and then recreated
+23m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+23m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+22m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+22m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+22m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+22m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+22m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+22m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-g428s" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+22m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+22m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+21m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+21m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+21m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+21m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-qkbxp" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (61cd85ee-789d-46fc-8d61-6f9f73115ceb) does not match the UID in record. The object might have been deleted and then recreated
+21m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+21m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-7nw5t" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (fb7a129d-8301-4c28-88e8-ef3f5cf5158c) does not match the UID in record. The object might have been deleted and then recreated
+21m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+21m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+21m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+21m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-7rmzg" : failed to fetch token: pod "yolo-obb" not found
+21m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+21m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+21m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+21m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-v892c" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (f5e05c74-153b-49eb-b040-336d401c2ed6) does not match the UID in record. The object might have been deleted and then recreated
+21m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+21m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+21m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+20m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+20m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+20m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+20m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+20m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+20m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+20m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+20m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-dlj9f" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (d4a7f08f-b053-424b-8a47-21feb74612e6) does not match the UID in record. The object might have been deleted and then recreated
+20m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+20m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-xvt7c" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+20m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+20m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+20m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+19m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+19m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+19m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+19m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+19m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+19m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+19m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-bdnjv" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (5ea81477-3af2-4184-90d8-a0dd28fe192e) does not match the UID in record. The object might have been deleted and then recreated
+19m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+19m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+19m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+18m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+18m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+18m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+18m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+18m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+18m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-lv2zs" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (45739ee1-eca6-4c14-aaa9-b3f05ab3f461) does not match the UID in record. The object might have been deleted and then recreated
+18m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+18m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+18m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+18m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+18m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+18m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-m9xn9" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (78990c0e-df7d-4778-9955-83009e7e8c5a) does not match the UID in record. The object might have been deleted and then recreated
+18m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+17m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-fgkbg" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (a5a7dd4e-f647-42b0-8876-3807f84c1088) does not match the UID in record. The object might have been deleted and then recreated
+17m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-fgkbg" : failed to fetch token: pod "yolo-seg" not found
+17m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+17m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+17m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+17m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+17m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+17m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+17m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-75jtv" : failed to fetch token: pod "yolo-pos" not found
+17m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-75jtv" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (e6fd3dd5-a98a-4c1e-bd99-fc6daeddd6e6) does not match the UID in record. The object might have been deleted and then recreated
+17m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+17m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+17m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+16m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+16m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+16m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+16m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+16m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+16m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-mx6qj" : failed to fetch token: pod "yolo-cls" not found
+16m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+16m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-mx6qj" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (cf1c1394-cc6a-403c-a937-46999793b06a) does not match the UID in record. The object might have been deleted and then recreated
+16m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+16m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+15m         Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-r2mj6" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (3d9d5036-9e7a-41f5-9b7a-c0156d674eab) does not match the UID in record. The object might have been deleted and then recreated
+15m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+15m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+15m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+15m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+15m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+15m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+15m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-9fpcz" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (0976b865-f122-443b-b5de-688b047b02fc) does not match the UID in record. The object might have been deleted and then recreated
+15m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+15m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+15m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+15m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-bgnp2" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (0691652e-f85e-49c0-aa9a-4f3645bf7b79) does not match the UID in record. The object might have been deleted and then recreated
+15m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-bgnp2" : failed to fetch token: pod "yolo-pos" not found
+15m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+15m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+15m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+14m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+14m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+14m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+14m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+14m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+13m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-mwp2q" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (a9fc780d-b054-428b-ac64-91a8e2ff75d2) does not match the UID in record. The object might have been deleted and then recreated
+13m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+13m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+13m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+13m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+13m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+13m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+13m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-tl6ll" : failed to fetch token: pod "yolo-seg" not found
+13m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-tl6ll" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (75b2cdc5-99c6-4e5b-b024-9abc0933d3fc) does not match the UID in record. The object might have been deleted and then recreated
+13m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+13m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+13m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+13m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-wpbjp" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (234b0896-4654-477a-975d-aeac9fde0e06) does not match the UID in record. The object might have been deleted and then recreated
+13m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+13m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+13m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+13m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-xbfvp" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (e8082fcb-510e-49cf-b321-f020c512c0f6) does not match the UID in record. The object might have been deleted and then recreated
+13m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+13m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+13m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+12m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+12m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+12m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+12m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+12m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+11m         Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-4mjhs" : failed to fetch token: pod "yolo-cls" not found
+11m         Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+11m         Normal    Started       pod/yolo-cls   Started container yolo-gpu
+11m         Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+11m         Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+11m         Normal    Created       pod/yolo-det   Created container: yolo-gpu
+11m         Normal    Started       pod/yolo-det   Started container yolo-gpu
+11m         Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-4x9qq" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+11m         Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+11m         Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+11m         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+11m         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-gpz6j" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (1f2b2cea-5740-49f5-aaa7-75bb55e0975f) does not match the UID in record. The object might have been deleted and then recreated
+11m         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+11m         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+11m         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+11m         Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-cz4mf" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (bb7337c2-cf94-476f-baa5-b414b716fdd1) does not match the UID in record. The object might have been deleted and then recreated
+11m         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+11m         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+11m         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+10m         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+10m         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+10m         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+10m         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+10m         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+9m56s       Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-m8w9g" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+9m55s       Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+9m55s       Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+9m54s       Normal    Started       pod/yolo-cls   Started container yolo-gpu
+9m49s       Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-pkgf4" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (67ac6bc1-5073-4760-83c1-80c82d80f886) does not match the UID in record. The object might have been deleted and then recreated
+9m48s       Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+9m48s       Normal    Created       pod/yolo-det   Created container: yolo-gpu
+9m47s       Normal    Started       pod/yolo-det   Started container yolo-gpu
+9m41s       Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+9m41s       Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+9m40s       Normal    Started       pod/yolo-seg   Started container yolo-gpu
+9m35s       Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-psvl8" : failed to fetch token: pod "yolo-obb" not found
+9m34s       Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+9m34s       Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+9m33s       Normal    Started       pod/yolo-obb   Started container yolo-gpu
+9m28s       Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+9m28s       Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-8k2nz" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (9aa1d37a-cdd6-4b0b-b636-a49fbd4ec98c) does not match the UID in record. The object might have been deleted and then recreated
+9m27s       Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+9m27s       Normal    Started       pod/yolo-pos   Started container yolo-gpu
+8m36s       Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+8m36s       Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+8m36s       Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+8m36s       Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+8m36s       Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+7m49s       Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m49s       Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+7m49s       Normal    Started       pod/yolo-cls   Started container yolo-gpu
+7m44s       Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-vscrg" : failed to fetch token: pod "yolo-det" not found
+7m43s       Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m43s       Normal    Created       pod/yolo-det   Created container: yolo-gpu
+7m42s       Normal    Started       pod/yolo-det   Started container yolo-gpu
+7m37s       Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m37s       Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-dbkgw" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (435d288d-859b-466c-a318-408ee918ec52) does not match the UID in record. The object might have been deleted and then recreated
+7m36s       Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+7m36s       Normal    Started       pod/yolo-seg   Started container yolo-gpu
+7m31s       Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-jpzlv" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (447e02bb-f910-42ea-8ea7-30e3739d7cf9) does not match the UID in record. The object might have been deleted and then recreated
+7m30s       Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m30s       Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+7m28s       Normal    Started       pod/yolo-obb   Started container yolo-gpu
+7m24s       Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-6pbbm" : failed to fetch token: pod "yolo-pos" not found
+7m23s       Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+7m23s       Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m22s       Normal    Started       pod/yolo-pos   Started container yolo-gpu
+6m32s       Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+6m31s       Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+6m31s       Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+6m31s       Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+6m31s       Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+5m46s       Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-rztmq" : failed to fetch token: pod "yolo-cls" not found
+5m45s       Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-rztmq" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (4884ae27-8d74-4ef6-9c42-2474ac66e3c8) does not match the UID in record. The object might have been deleted and then recreated
+5m45s       Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+5m45s       Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+5m44s       Normal    Started       pod/yolo-cls   Started container yolo-gpu
+5m40s       Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-2hsfd" : failed to fetch token: pod "yolo-det" not found
+5m39s       Normal    Created       pod/yolo-det   Created container: yolo-gpu
+5m39s       Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+5m38s       Normal    Started       pod/yolo-det   Started container yolo-gpu
+5m33s       Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+5m33s       Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+5m33s       Normal    Started       pod/yolo-seg   Started container yolo-gpu
+5m28s       Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-kxqgc" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+5m27s       Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+5m27s       Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+5m26s       Normal    Started       pod/yolo-obb   Started container yolo-gpu
+5m21s       Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-kxjks" : failed to fetch token: pod "yolo-pos" not found
+5m20s       Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+5m20s       Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+5m19s       Normal    Started       pod/yolo-pos   Started container yolo-gpu
+4m29s       Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+4m29s       Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+4m29s       Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+4m29s       Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+4m29s       Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+3m44s       Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-28rtr" : failed to fetch token: pod "yolo-cls" not found
+3m43s       Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-28rtr" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (646f162f-edfa-40bb-91da-984c5b79c1c2) does not match the UID in record. The object might have been deleted and then recreated
+3m43s       Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+3m43s       Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+3m42s       Normal    Started       pod/yolo-cls   Started container yolo-gpu
+3m38s       Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-4djwd" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (b0b30148-cb2f-49c4-8e93-dd6a0c8e047c) does not match the UID in record. The object might have been deleted and then recreated
+3m37s       Normal    Created       pod/yolo-det   Created container: yolo-gpu
+3m37s       Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+3m36s       Normal    Started       pod/yolo-det   Started container yolo-gpu
+3m32s       Warning   FailedMount   pod/yolo-seg   MountVolume.SetUp failed for volume "kube-api-access-rl8ph" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (cc20265c-2601-4fd9-a03c-d4c09f675459) does not match the UID in record. The object might have been deleted and then recreated
+3m31s       Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+3m30s       Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+3m30s       Normal    Started       pod/yolo-seg   Started container yolo-gpu
+3m25s       Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-r9djq" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (578e100a-02f8-495f-8a04-1b175d6fea3a) does not match the UID in record. The object might have been deleted and then recreated
+3m25s       Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-r9djq" : failed to fetch token: pod "yolo-obb" not found
+3m24s       Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+3m24s       Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+3m23s       Normal    Started       pod/yolo-obb   Started container yolo-gpu
+3m18s       Warning   FailedMount   pod/yolo-pos   MountVolume.SetUp failed for volume "kube-api-access-gpxnj" : failed to fetch token: pod "yolo-pos" not found
+3m17s       Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+3m17s       Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+3m16s       Normal    Started       pod/yolo-pos   Started container yolo-gpu
+2m39s       Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+2m39s       Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+2m39s       Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+2m39s       Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+2m39s       Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu
+114s        Warning   FailedMount   pod/yolo-cls   MountVolume.SetUp failed for volume "kube-api-access-hgpqm" : failed to fetch token: serviceaccounts "default" is forbidden: User "system:node:gpu-orin3" cannot create resource "serviceaccounts/token" in API group "" in the namespace "default": no relationship found between node 'gpu-orin3' and this object
+113s        Normal    Pulled        pod/yolo-cls   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+113s        Normal    Created       pod/yolo-cls   Created container: yolo-gpu
+112s        Normal    Started       pod/yolo-cls   Started container yolo-gpu
+107s        Warning   FailedMount   pod/yolo-det   MountVolume.SetUp failed for volume "kube-api-access-hbps2" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (6a7c08c2-a86d-42d1-a352-bab0688b1077) does not match the UID in record. The object might have been deleted and then recreated
+107s        Normal    Pulled        pod/yolo-det   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+106s        Normal    Started       pod/yolo-det   Started container yolo-gpu
+106s        Normal    Created       pod/yolo-det   Created container: yolo-gpu
+100s        Normal    Created       pod/yolo-seg   Created container: yolo-gpu
+100s        Normal    Pulled        pod/yolo-seg   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+99s         Normal    Started       pod/yolo-seg   Started container yolo-gpu
+94s         Warning   FailedMount   pod/yolo-obb   MountVolume.SetUp failed for volume "kube-api-access-klh6v" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (0f56f4e6-758b-4aba-818c-9d9ca034f608) does not match the UID in record. The object might have been deleted and then recreated
+93s         Normal    Pulled        pod/yolo-obb   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+93s         Normal    Created       pod/yolo-obb   Created container: yolo-gpu
+92s         Normal    Started       pod/yolo-obb   Started container yolo-gpu
+85s         Normal    Created       pod/yolo-pos   Created container: yolo-gpu
+85s         Normal    Pulled        pod/yolo-pos   Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+82s         Normal    Started       pod/yolo-pos   Started container yolo-gpu
+36s         Normal    Killing       pod/yolo-cls   Stopping container yolo-gpu
+35s         Normal    Killing       pod/yolo-det   Stopping container yolo-gpu
+35s         Normal    Killing       pod/yolo-pos   Stopping container yolo-gpu
+35s         Normal    Killing       pod/yolo-obb   Stopping container yolo-gpu
+35s         Normal    Killing       pod/yolo-seg   Stopping container yolo-gpu

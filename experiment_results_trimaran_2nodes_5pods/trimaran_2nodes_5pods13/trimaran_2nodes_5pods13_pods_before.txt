@@ -1,0 +1,44 @@
+NAMESPACE              NAME                                                              READY   STATUS        RESTARTS         AGE     IP              NODE               NOMINATED NODE   READINESS GATES
+default                cls-engine-build-orin4                                            0/1     Completed     0                29h     10.244.3.156    gpuorin4-desktop   <none>           <none>
+default                cls-engine-check-orin2                                            0/1     Completed     0                29h     <none>          gpu-orin2          <none>           <none>
+default                cls-engine-inspect-orin4                                          0/1     Completed     0                29h     10.244.3.155    gpuorin4-desktop   <none>           <none>
+default                cls-export-orin4                                                  0/1     Completed     0                32h     10.244.3.153    gpuorin4-desktop   <none>           <none>
+default                obb-engine-build-orin2                                            0/1     Completed     0                3h23m   10.244.1.148    gpu-orin2          <none>           <none>
+default                obb-engine-build-orin4                                            0/1     Completed     0                3h20m   10.244.3.157    gpuorin4-desktop   <none>           <none>
+kube-flannel           kube-flannel-ds-7xczg                                             1/1     Running       23 (11d ago)     45d     192.168.0.162   gpuorin4-desktop   <none>           <none>
+kube-flannel           kube-flannel-ds-cbs57                                             1/1     Running       8 (11d ago)      45d     192.168.0.156   gpuorin5-desktop   <none>           <none>
+kube-flannel           kube-flannel-ds-dtdhn                                             1/1     Running       0                43d     192.168.0.18    ubuntu             <none>           <none>
+kube-flannel           kube-flannel-ds-mr6k6                                             1/1     Running       1 (46d ago)      108d    192.168.0.79    gpu-master         <none>           <none>
+kube-flannel           kube-flannel-ds-n4ffc                                             1/1     Running       0                42d     192.168.0.10    gpu-agx            <none>           <none>
+kube-flannel           kube-flannel-ds-r9vd7                                             1/1     Running       14               108d    192.168.0.52    gpu-orin3          <none>           <none>
+kube-flannel           kube-flannel-ds-vfsmh                                             1/1     Running       10 (9d ago)      108d    192.168.0.206   gpu-orin2          <none>           <none>
+kube-system            coredns-76f75df574-fwqzf                                          1/1     Running       1 (46d ago)      108d    10.244.0.14     gpu-master         <none>           <none>
+kube-system            coredns-76f75df574-k9cjk                                          1/1     Running       1 (46d ago)      108d    10.244.0.15     gpu-master         <none>           <none>
+kube-system            etcd-gpu-master                                                   1/1     Running       1 (46d ago)      108d    192.168.0.79    gpu-master         <none>           <none>
+kube-system            kube-apiserver-gpu-master                                         1/1     Running       1 (46d ago)      108d    192.168.0.79    gpu-master         <none>           <none>
+kube-system            kube-controller-manager-gpu-master                                1/1     Running       8 (46d ago)      108d    192.168.0.79    gpu-master         <none>           <none>
+kube-system            kube-proxy-2bn9x                                                  1/1     Running       8 (11d ago)      45d     192.168.0.156   gpuorin5-desktop   <none>           <none>
+kube-system            kube-proxy-54dbn                                                  1/1     Running       11 (9d ago)      108d    192.168.0.206   gpu-orin2          <none>           <none>
+kube-system            kube-proxy-58l75                                                  1/1     Running       0                42d     192.168.0.10    gpu-agx            <none>           <none>
+kube-system            kube-proxy-82ll7                                                  1/1     Running       1 (46d ago)      108d    192.168.0.79    gpu-master         <none>           <none>
+kube-system            kube-proxy-96cgl                                                  1/1     Running       0                43d     192.168.0.18    ubuntu             <none>           <none>
+kube-system            kube-proxy-hrh4r                                                  1/1     Running       14               108d    192.168.0.52    gpu-orin3          <none>           <none>
+kube-system            kube-proxy-s4zrv                                                  1/1     Running       22 (11d ago)     45d     192.168.0.162   gpuorin4-desktop   <none>           <none>
+kube-system            kube-scheduler-gpu-master                                         1/1     Running       0                17d     192.168.0.79    gpu-master         <none>           <none>
+kube-system            metrics-server-6db6cd6674-4r29m                                   1/1     Running       1 (11d ago)      11d     10.244.4.158    gpuorin5-desktop   <none>           <none>
+nvidia-device-plugin   k8s-device-plugin-renew-nvidia-device-plugin-2b7x8                2/2     Running       10 (11d ago)     43d     10.244.3.112    gpuorin4-desktop   <none>           <none>
+nvidia-device-plugin   k8s-device-plugin-renew-nvidia-device-plugin-74z26                2/2     Running       16 (9d ago)      43d     10.244.1.243    gpu-orin2          <none>           <none>
+nvidia-device-plugin   k8s-device-plugin-renew-nvidia-device-plugin-g25sp                2/2     Running       14 (11d ago)     43d     10.244.4.160    gpuorin5-desktop   <none>           <none>
+nvidia-device-plugin   k8s-device-plugin-renew-nvidia-device-plugin-mps-control-dctgw4   2/2     Running       14 (11d ago)     43d     10.244.4.159    gpuorin5-desktop   <none>           <none>
+nvidia-device-plugin   k8s-device-plugin-renew-nvidia-device-plugin-mps-control-dcxlnd   2/2     Running       10 (11d ago)     43d     10.244.3.117    gpuorin4-desktop   <none>           <none>
+nvidia-device-plugin   k8s-device-plugin-renew-nvidia-device-plugin-mps-control-dlj85l   2/2     Running       16 (9d ago)      43d     10.244.1.244    gpu-orin2          <none>           <none>
+nvidia-device-plugin   k8s-device-plugin-renew-nvidia-device-plugin-mps-control-drrzrj   2/2     Running       20               42d     10.244.2.162    gpu-orin3          <none>           <none>
+nvidia-device-plugin   k8s-device-plugin-renew-nvidia-device-plugin-z5dsl                2/2     Running       20               42d     10.244.2.161    gpu-orin3          <none>           <none>
+scheduler-plugins      scheduler-plugins-controller-5d5876dd7d-zv7wl                     1/1     Running       1 (11d ago)      11d     10.244.3.113    gpuorin4-desktop   <none>           <none>
+scheduler-plugins      trimaran-578d5d7bf9-8247k                                         1/1     Running       1 (11d ago)      11d     10.244.4.157    gpuorin5-desktop   <none>           <none>
+volcano-system         volcano-admission-7f4fcd89b4-l7jrx                                1/1     Terminating   2298 (28d ago)   39d     10.244.6.3      gpu-agx            <none>           <none>
+volcano-system         volcano-admission-7f4fcd89b4-nv4wx                                1/1     Running       3763 (43s ago)   17d     10.244.3.116    gpuorin4-desktop   <none>           <none>
+volcano-system         volcano-controllers-6fb4668949-cp4jg                              1/1     Terminating   0                39d     10.244.6.2      gpu-agx            <none>           <none>
+volcano-system         volcano-controllers-6fb4668949-jfkss                              1/1     Running       1 (11d ago)      28d     10.244.3.114    gpuorin4-desktop   <none>           <none>
+volcano-system         volcano-scheduler-7f6f746f98-dbj95                                1/1     Running       1 (11d ago)      17d     10.244.3.115    gpuorin4-desktop   <none>           <none>
+volcano-system         volcano-scheduler-7f6f746f98-jl7s7                                1/1     Terminating   0                39d     10.244.6.4      gpu-agx            <none>           <none>

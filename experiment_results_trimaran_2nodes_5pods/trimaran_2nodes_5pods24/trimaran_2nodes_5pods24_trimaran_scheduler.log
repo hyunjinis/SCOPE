@@ -1,0 +1,40 @@
+I0703 08:45:47.650271       1 serving.go:380] Generated self-signed cert in-memory
+W0703 08:45:47.656514       1 client_config.go:618] Neither --kubeconfig nor --master was specified.  Using the inClusterConfig.  This might not work.
+W0703 08:45:48.753829       1 client_config.go:618] Neither --kubeconfig nor --master was specified.  Using the inClusterConfig.  This might not work.
+time="2026-07-03T08:45:48Z" level=error msg="received error while fetching metrics: the server is currently unable to handle the request (get nodes.metrics.k8s.io)"
+time="2026-07-03T08:45:48Z" level=error msg="received error while fetching metrics: the server is currently unable to handle the request (get nodes.metrics.k8s.io)"
+time="2026-07-03T08:45:48Z" level=error msg="received error while fetching metrics: the server is currently unable to handle the request (get nodes.metrics.k8s.io)"
+time="2026-07-03T08:45:48Z" level=error msg="received error while fetching metrics: the server is currently unable to handle the request (get nodes.metrics.k8s.io)"
+time="2026-07-03T08:45:48Z" level=error msg="received error while fetching metrics: the server is currently unable to handle the request (get nodes.metrics.k8s.io)"
+time="2026-07-03T08:45:48Z" level=info msg="Started watching metrics"
+E0703 08:45:48.758287       1 collector.go:136] "Load watcher client failed" err="unable to get any latest metrics"
+E0703 08:45:48.758314       1 collector.go:79] "Unable to populate metrics initially" err="unable to get any latest metrics"
+I0703 08:45:48.758749       1 framework.go:510] "MultiPoint plugin is explicitly re-configured; overriding" plugin="PrioritySort"
+time="2026-07-03T08:45:48Z" level=error msg="received error while fetching metrics: the server is currently unable to handle the request (get nodes.metrics.k8s.io)"
+I0703 08:45:48.759988       1 server.go:154] "Starting Kubernetes Scheduler" version="v0.0.20240729"
+I0703 08:45:48.760023       1 server.go:156] "Golang settings" GOGC="" GOMAXPROCS="" GOTRACEBACK=""
+I0703 08:45:48.767804       1 configmap_cafile_content.go:202] "Starting controller" name="client-ca::kube-system::extension-apiserver-authentication::client-ca-file"
+I0703 08:45:48.767814       1 requestheader_controller.go:169] Starting RequestHeaderAuthRequestController
+I0703 08:45:48.767858       1 shared_informer.go:311] Waiting for caches to sync for client-ca::kube-system::extension-apiserver-authentication::client-ca-file
+I0703 08:45:48.767861       1 shared_informer.go:311] Waiting for caches to sync for RequestHeaderAuthRequestController
+I0703 08:45:48.767829       1 configmap_cafile_content.go:202] "Starting controller" name="client-ca::kube-system::extension-apiserver-authentication::requestheader-client-ca-file"
+I0703 08:45:48.767963       1 shared_informer.go:311] Waiting for caches to sync for client-ca::kube-system::extension-apiserver-authentication::requestheader-client-ca-file
+I0703 08:45:48.769445       1 secure_serving.go:213] Serving securely on [::]:10259
+I0703 08:45:48.769586       1 tlsconfig.go:240] "Starting DynamicServingCertificateController"
+I0703 08:45:48.868471       1 shared_informer.go:318] Caches are synced for RequestHeaderAuthRequestController
+I0703 08:45:48.868697       1 shared_informer.go:318] Caches are synced for client-ca::kube-system::extension-apiserver-authentication::requestheader-client-ca-file
+I0703 08:45:48.868474       1 shared_informer.go:318] Caches are synced for client-ca::kube-system::extension-apiserver-authentication::client-ca-file
+E0703 08:46:18.759092       1 collector.go:136] "Load watcher client failed" err="unable to get any latest metrics"
+E0703 08:46:18.759157       1 collector.go:87] "Unable to update metrics" err="unable to get any latest metrics"
+E0703 08:46:48.758607       1 collector.go:136] "Load watcher client failed" err="unable to get any latest metrics"
+E0703 08:46:48.758666       1 collector.go:87] "Unable to update metrics" err="unable to get any latest metrics"
+E0705 08:57:05.230119       1 collector.go:112] "Unable to find metrics for node" nodeName="gpu-orin3"
+I0705 08:57:05.230247       1 loadvariationriskbalancing.go:91] "Failed to get metrics for node; using minimum score" nodeName="gpu-orin3"
+E0705 10:03:16.557649       1 collector.go:112] "Unable to find metrics for node" nodeName="gpu-orin2"
+I0705 10:03:16.557787       1 loadvariationriskbalancing.go:91] "Failed to get metrics for node; using minimum score" nodeName="gpu-orin2"
+E0705 10:03:23.522652       1 collector.go:112] "Unable to find metrics for node" nodeName="gpu-orin2"
+I0705 10:03:23.522747       1 loadvariationriskbalancing.go:91] "Failed to get metrics for node; using minimum score" nodeName="gpu-orin2"
+E0705 10:03:30.498807       1 collector.go:112] "Unable to find metrics for node" nodeName="gpu-orin2"
+I0705 10:03:30.498905       1 loadvariationriskbalancing.go:91] "Failed to get metrics for node; using minimum score" nodeName="gpu-orin2"
+E0705 10:03:36.782114       1 collector.go:112] "Unable to find metrics for node" nodeName="gpu-orin2"
+I0705 10:03:36.782213       1 loadvariationriskbalancing.go:91] "Failed to get metrics for node; using minimum score" nodeName="gpu-orin2"

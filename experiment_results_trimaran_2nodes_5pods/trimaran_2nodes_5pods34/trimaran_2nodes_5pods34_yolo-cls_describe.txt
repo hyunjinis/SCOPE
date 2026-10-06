@@ -1,0 +1,67 @@
+Name:             yolo-cls
+Namespace:        default
+Priority:         0
+Service Account:  default
+Node:             gpu-orin2/192.168.0.206
+Start Time:       Tue, 14 Jul 2026 20:30:12 +0900
+Labels:           app=yolo
+Annotations:      <none>
+Status:           Running
+IP:               10.244.1.173
+IPs:
+  IP:  10.244.1.173
+Containers:
+  yolo-gpu:
+    Container ID:  containerd://eb34ac0135826b1d9d1b8b448a9b695b8ac61a54578ed9a4f9f613ca952ba60f
+    Image:         ultralytics/ultralytics:latest-jetson-jetpack6
+    Image ID:      docker.io/ultralytics/ultralytics@sha256:510c1c963e45c3405444f12465c7614c49fff9c363f9c8954ef97743b36713bb
+    Port:          <none>
+    Host Port:     <none>
+    Command:
+      /bin/bash
+      -c
+    Args:
+      cd /mnt/yolo
+      python3 -c "from ultralytics import YOLO; model = YOLO('models/yolo11n-cls_640.engine'); model.predict(source='data/classify_src', imgsz=640, device=0, save=True, project='runs', name='cls')"
+      sleep 3600
+      
+    State:          Running
+      Started:      Tue, 14 Jul 2026 20:30:14 +0900
+    Ready:          True
+    Restart Count:  0
+    Limits:
+      nvidia.com/gpu:  1
+    Requests:
+      nvidia.com/gpu:  1
+    Environment:       <none>
+    Mounts:
+      /mnt/yolo from yolo-shared (rw)
+      /var/run/secrets/kubernetes.io/serviceaccount from kube-api-access-26tn4 (ro)
+Conditions:
+  Type                        Status
+  PodReadyToStartContainers   True 
+  Initialized                 True 
+  Ready                       True 
+  ContainersReady             True 
+  PodScheduled                True 
+Volumes:
+  yolo-shared:
+    Type:       PersistentVolumeClaim (a reference to a PersistentVolumeClaim in the same namespace)
+    ClaimName:  yolo-shared-pvc
+    ReadOnly:   false
+  kube-api-access-26tn4:
+    Type:                    Projected (a volume that contains injected data from multiple sources)
+    TokenExpirationSeconds:  3607
+    ConfigMapName:           kube-root-ca.crt
+    ConfigMapOptional:       <nil>
+    DownwardAPI:             true
+QoS Class:                   BestEffort
+Node-Selectors:              <none>
+Tolerations:                 node.kubernetes.io/not-ready:NoExecute op=Exists for 300s
+                             node.kubernetes.io/unreachable:NoExecute op=Exists for 300s
+Events:
+  Type    Reason   Age   From     Message
+  ----    ------   ----  ----     -------
+  Normal  Pulled   3s    kubelet  Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+  Normal  Created  3s    kubelet  Created container: yolo-gpu
+  Normal  Started  2s    kubelet  Started container yolo-gpu

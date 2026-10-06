@@ -1,0 +1,2 @@
+NAME       READY   STATUS    RESTARTS   AGE   IP             NODE        NOMINATED NODE   READINESS GATES
+yolo-cls   1/1     Running   0          4s    10.244.1.190   gpu-orin2   <none>           <none>
