@@ -1,0 +1,131 @@
+LAST SEEN   TYPE      REASON        OBJECT                                                   MESSAGE
+7m31s       Normal    Scheduled     pod/yolo-cls                                             Successfully assigned default/yolo-cls to gpu-orin3
+7m31s       Normal    Scheduled     podgroup/podgroup-9cfc0413-1568-4a04-acc9-9da6da19b20e   pod group is ready
+7m30s       Normal    Pulled        pod/yolo-cls                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m29s       Normal    Created       pod/yolo-cls                                             Created container: yolo-gpu
+7m29s       Normal    Pulled        pod/yolo-cls                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m29s       Normal    Created       pod/yolo-cls                                             Created container: yolo-gpu
+7m23s       Normal    Started       pod/yolo-cls                                             Started container yolo-gpu
+7m23s       Normal    Started       pod/yolo-cls                                             Started container yolo-gpu
+7m22s       Normal    Killing       pod/yolo-cls                                             Stopping container yolo-gpu
+7m18s       Normal    Scheduled     podgroup/podgroup-1617af69-cd7f-495c-95a1-4653a21a520f   pod group is ready
+7m18s       Warning   FailedMount   pod/yolo-det                                             MountVolume.SetUp failed for volume "kube-api-access-67qtk" : failed to fetch token: pod "yolo-det" not found
+7m18s       Normal    Scheduled     pod/yolo-det                                             Successfully assigned default/yolo-det to gpu-orin3
+7m17s       Normal    Created       pod/yolo-det                                             Created container: yolo-gpu
+7m17s       Warning   FailedMount   pod/yolo-det                                             MountVolume.SetUp failed for volume "kube-api-access-67qtk" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (1617af69-cd7f-495c-95a1-4653a21a520f) does not match the UID in record. The object might have been deleted and then recreated
+7m17s       Normal    Pulled        pod/yolo-det                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m15s       Normal    Started       pod/yolo-det                                             Started container yolo-gpu
+7m10s       Normal    Scheduled     pod/yolo-seg                                             Successfully assigned default/yolo-seg to gpu-orin2
+7m10s       Normal    Scheduled     podgroup/podgroup-8f19e59c-9e43-47b9-adf4-f831f78309d4   pod group is ready
+7m9s        Normal    Pulled        pod/yolo-seg                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m9s        Normal    Created       pod/yolo-seg                                             Created container: yolo-gpu
+7m9s        Normal    Pulled        pod/yolo-seg                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+7m9s        Normal    Created       pod/yolo-seg                                             Created container: yolo-gpu
+7m8s        Normal    Killing       pod/yolo-seg                                             Stopping container yolo-gpu
+7m8s        Normal    Started       pod/yolo-seg                                             Started container yolo-gpu
+7m8s        Normal    Started       pod/yolo-seg                                             Started container yolo-gpu
+7m3s        Normal    Scheduled     podgroup/podgroup-f5171620-60d0-475f-a7fb-0c02917343cf   pod group is ready
+7m3s        Normal    Scheduled     pod/yolo-obb                                             Successfully assigned default/yolo-obb to gpu-orin3
+7m1s        Normal    Created       pod/yolo-obb                                             Created container: yolo-gpu
+7m1s        Normal    Pulled        pod/yolo-obb                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+6m59s       Normal    Started       pod/yolo-obb                                             Started container yolo-gpu
+6m53s       Normal    Scheduled     pod/yolo-pos                                             Successfully assigned default/yolo-pos to gpu-orin2
+6m53s       Normal    Scheduled     podgroup/podgroup-9bd58bba-ed6d-488d-9599-f8a70df8d889   pod group is ready
+6m52s       Normal    Pulled        pod/yolo-pos                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+6m51s       Normal    Started       pod/yolo-pos                                             Started container yolo-gpu
+6m51s       Normal    Created       pod/yolo-pos                                             Created container: yolo-gpu
+5m45s       Normal    Killing       pod/yolo-det                                             Stopping container yolo-gpu
+5m45s       Normal    Killing       pod/yolo-cls                                             Stopping container yolo-gpu
+5m44s       Normal    Killing       pod/yolo-pos                                             Stopping container yolo-gpu
+5m44s       Normal    Killing       pod/yolo-seg                                             Stopping container yolo-gpu
+5m44s       Normal    Killing       pod/yolo-obb                                             Stopping container yolo-gpu
+4m28s       Normal    Scheduled     pod/yolo-cls                                             Successfully assigned default/yolo-cls to gpu-orin2
+4m28s       Normal    Scheduled     podgroup/podgroup-6cb8407a-d4d7-4bfc-97cc-49def4e04862   pod group is ready
+4m26s       Normal    Pulled        pod/yolo-cls                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+4m26s       Normal    Created       pod/yolo-cls                                             Created container: yolo-gpu
+4m25s       Normal    Started       pod/yolo-cls                                             Started container yolo-gpu
+4m21s       Normal    Scheduled     podgroup/podgroup-96812814-99b6-4f7a-9acc-cfe4803f4ca3   pod group is ready
+4m21s       Normal    Scheduled     pod/yolo-det                                             Successfully assigned default/yolo-det to gpu-orin3
+4m20s       Normal    Created       pod/yolo-det                                             Created container: yolo-gpu
+4m20s       Normal    Created       pod/yolo-det                                             Created container: yolo-gpu
+4m20s       Normal    Pulled        pod/yolo-det                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+4m20s       Normal    Pulled        pod/yolo-det                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+4m16s       Normal    Started       pod/yolo-det                                             Started container yolo-gpu
+4m16s       Normal    Started       pod/yolo-det                                             Started container yolo-gpu
+4m15s       Normal    Killing       pod/yolo-det                                             Stopping container yolo-gpu
+4m11s       Normal    Created       pod/yolo-seg                                             Created container: yolo-gpu
+4m11s       Normal    Scheduled     podgroup/podgroup-07935599-eba3-4322-98d8-34bee0f6e2d6   pod group is ready
+4m11s       Normal    Pulled        pod/yolo-seg                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+4m11s       Normal    Scheduled     pod/yolo-seg                                             Successfully assigned default/yolo-seg to gpu-orin2
+4m10s       Normal    Pulled        pod/yolo-seg                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+4m10s       Normal    Created       pod/yolo-seg                                             Created container: yolo-gpu
+4m10s       Normal    Started       pod/yolo-seg                                             Started container yolo-gpu
+4m9s        Normal    Killing       pod/yolo-seg                                             Stopping container yolo-gpu
+4m9s        Normal    Started       pod/yolo-seg                                             Started container yolo-gpu
+4m3s        Normal    Scheduled     podgroup/podgroup-e2383247-7ecb-4330-935e-42e3eca410ac   pod group is ready
+4m3s        Normal    Scheduled     pod/yolo-obb                                             Successfully assigned default/yolo-obb to gpu-orin3
+4m2s        Normal    Pulled        pod/yolo-obb                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+4m2s        Normal    Created       pod/yolo-obb                                             Created container: yolo-gpu
+4m1s        Normal    Started       pod/yolo-obb                                             Started container yolo-gpu
+3m55s       Normal    Scheduled     podgroup/podgroup-f3b91131-5f55-48c3-b3df-f5719f6de593   pod group is ready
+3m55s       Normal    Scheduled     pod/yolo-pos                                             Successfully assigned default/yolo-pos to gpu-orin2
+3m54s       Normal    Pulled        pod/yolo-pos                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+3m54s       Normal    Created       pod/yolo-pos                                             Created container: yolo-gpu
+3m54s       Normal    Pulled        pod/yolo-pos                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+3m53s       Normal    Killing       pod/yolo-pos                                             Stopping container yolo-gpu
+3m53s       Normal    Started       pod/yolo-pos                                             Started container yolo-gpu
+3m53s       Normal    Started       pod/yolo-pos                                             Started container yolo-gpu
+3m53s       Normal    Created       pod/yolo-pos                                             Created container: yolo-gpu
+2m54s       Normal    Killing       pod/yolo-pos                                             Stopping container yolo-gpu
+2m54s       Normal    Killing       pod/yolo-obb                                             Stopping container yolo-gpu
+2m54s       Normal    Killing       pod/yolo-cls                                             Stopping container yolo-gpu
+2m54s       Normal    Killing       pod/yolo-seg                                             Stopping container yolo-gpu
+2m54s       Normal    Killing       pod/yolo-det                                             Stopping container yolo-gpu
+2m6s        Normal    Scheduled     pod/yolo-cls                                             Successfully assigned default/yolo-cls to gpu-orin3
+2m6s        Normal    Scheduled     podgroup/podgroup-68485444-d9d0-4159-ac09-a93e06e4b32b   pod group is ready
+2m5s        Normal    Pulled        pod/yolo-cls                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+2m5s        Normal    Created       pod/yolo-cls                                             Created container: yolo-gpu
+2m4s        Normal    Pulled        pod/yolo-cls                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+2m4s        Normal    Killing       pod/yolo-cls                                             Stopping container yolo-gpu
+2m4s        Normal    Started       pod/yolo-cls                                             Started container yolo-gpu
+2m4s        Normal    Created       pod/yolo-cls                                             Created container: yolo-gpu
+2m3s        Normal    Started       pod/yolo-cls                                             Started container yolo-gpu
+119s        Normal    Scheduled     podgroup/podgroup-3612a22c-44ea-489e-9ca2-ff7ac9dcab68   pod group is ready
+119s        Normal    Scheduled     pod/yolo-det                                             Successfully assigned default/yolo-det to gpu-orin2
+118s        Normal    Pulled        pod/yolo-det                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+118s        Normal    Created       pod/yolo-det                                             Created container: yolo-gpu
+117s        Normal    Started       pod/yolo-det                                             Started container yolo-gpu
+117s        Normal    Created       pod/yolo-det                                             Created container: yolo-gpu
+117s        Normal    Pulled        pod/yolo-det                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+116s        Normal    Started       pod/yolo-det                                             Started container yolo-gpu
+116s        Normal    Killing       pod/yolo-det                                             Stopping container yolo-gpu
+111s        Normal    Scheduled     podgroup/podgroup-649cab07-f84b-474a-813b-0b2e3e4b8a6f   pod group is ready
+111s        Normal    Scheduled     pod/yolo-seg                                             Successfully assigned default/yolo-seg to gpu-orin2
+110s        Normal    Pulled        pod/yolo-seg                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+110s        Normal    Created       pod/yolo-seg                                             Created container: yolo-gpu
+109s        Normal    Pulled        pod/yolo-seg                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+109s        Normal    Created       pod/yolo-seg                                             Created container: yolo-gpu
+109s        Normal    Started       pod/yolo-seg                                             Started container yolo-gpu
+108s        Normal    Killing       pod/yolo-seg                                             Stopping container yolo-gpu
+108s        Normal    Started       pod/yolo-seg                                             Started container yolo-gpu
+103s        Normal    Scheduled     podgroup/podgroup-e8a57a54-045a-4911-9889-4c453703f8ff   pod group is ready
+103s        Normal    Scheduled     pod/yolo-obb                                             Successfully assigned default/yolo-obb to gpu-orin3
+102s        Normal    Created       pod/yolo-obb                                             Created container: yolo-gpu
+102s        Normal    Pulled        pod/yolo-obb                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+101s        Normal    Started       pod/yolo-obb                                             Started container yolo-gpu
+101s        Normal    Created       pod/yolo-obb                                             Created container: yolo-gpu
+101s        Normal    Pulled        pod/yolo-obb                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+100s        Normal    Started       pod/yolo-obb                                             Started container yolo-gpu
+100s        Normal    Killing       pod/yolo-obb                                             Stopping container yolo-gpu
+95s         Normal    Scheduled     pod/yolo-pos                                             Successfully assigned default/yolo-pos to gpu-orin2
+95s         Normal    Scheduled     podgroup/podgroup-57afaaeb-647b-4cee-81b7-ea2fb2b98501   pod group is ready
+95s         Warning   FailedMount   pod/yolo-pos                                             MountVolume.SetUp failed for volume "kube-api-access-tt9pf" : failed to fetch token: pod "yolo-pos" not found
+95s         Warning   FailedMount   pod/yolo-pos                                             MountVolume.SetUp failed for volume "kube-api-access-tt9pf" : failed to fetch token: serviceaccounts "default" is forbidden: the UID in the bound object reference (57afaaeb-647b-4cee-81b7-ea2fb2b98501) does not match the UID in record. The object might have been deleted and then recreated
+94s         Normal    Pulled        pod/yolo-pos                                             Container image "ultralytics/ultralytics:latest-jetson-jetpack6" already present on machine
+94s         Normal    Created       pod/yolo-pos                                             Created container: yolo-gpu
+92s         Normal    Started       pod/yolo-pos                                             Started container yolo-gpu
+35s         Normal    Killing       pod/yolo-det                                             Stopping container yolo-gpu
+35s         Normal    Killing       pod/yolo-obb                                             Stopping container yolo-gpu
+35s         Normal    Killing       pod/yolo-cls                                             Stopping container yolo-gpu
+35s         Normal    Killing       pod/yolo-pos                                             Stopping container yolo-gpu
+35s         Normal    Killing       pod/yolo-seg                                             Stopping container yolo-gpu

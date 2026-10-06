@@ -1,0 +1,8 @@
+NAME               CPU(cores)   CPU%        MEMORY(bytes)   MEMORY%     
+gpu-master         219m         0%          1773Mi          2%          
+gpu-orin2          975m         16%         1918Mi          25%         
+gpu-orin3          228m         3%          2232Mi          29%         
+gpuorin4-desktop   158m         2%          2504Mi          33%         
+gpuorin5-desktop   96m          1%          2157Mi          28%         
+ubuntu             <unknown>    <unknown>   <unknown>       <unknown>   
+gpu-agx            <unknown>    <unknown>   <unknown>       <unknown>   

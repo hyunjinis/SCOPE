@@ -1,0 +1,29 @@
+---
+# 1. CLS Pod
+apiVersion: v1
+kind: Pod
+metadata:
+  name: yolo-cls
+  labels:
+    app: yolo
+spec:
+  nodeName: gpu-orin3
+  restartPolicy: Never
+  containers:
+    - name: yolo-gpu
+      image: ultralytics/ultralytics:latest-jetson-jetpack6
+      securityContext: {privileged: true}
+      command: ["/bin/bash", "-c"]
+      args:
+        - |
+          cd /mnt/yolo
+          python3 -c "from ultralytics import YOLO; model = YOLO('models/yolo11n-cls_640_trt10.engine'); model.predict(source='data/classify_src', imgsz=640, device=0, save=True, project='runs', name='cls')"
+          sleep 3600
+      resources: {limits: {nvidia.com/gpu: 1}}
+      volumeMounts:
+        - name: yolo-shared
+          mountPath: /mnt/yolo
+  volumes:
+    - name: yolo-shared
+      persistentVolumeClaim: {claimName: yolo-shared-pvc}
+

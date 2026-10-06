@@ -1,0 +1,8 @@
+NAME               STATUS     ROLES           AGE    VERSION    INTERNAL-IP     EXTERNAL-IP   OS-IMAGE             KERNEL-VERSION      CONTAINER-RUNTIME
+gpu-agx            NotReady   <none>          42d    v1.29.15   192.168.0.10    <none>        Ubuntu 22.04.5 LTS   5.15.148-tegra      containerd://2.2.4
+gpu-master         Ready      control-plane   108d   v1.29.15   192.168.0.79    <none>        Ubuntu 24.04.2 LTS   6.17.0-29-generic   containerd://2.1.5
+gpu-orin2          Ready      <none>          108d   v1.29.15   192.168.0.206   <none>        Ubuntu 22.04.5 LTS   5.15.148-tegra      containerd://2.1.5
+gpu-orin3          Ready      <none>          108d   v1.29.15   192.168.0.52    <none>        Ubuntu 22.04.5 LTS   5.15.148-tegra      containerd://2.1.5
+gpuorin4-desktop   Ready      <none>          45d    v1.29.15   192.168.0.162   <none>        Ubuntu 22.04.5 LTS   5.15.148-tegra      containerd://2.2.1
+gpuorin5-desktop   Ready      <none>          45d    v1.29.15   192.168.0.156   <none>        Ubuntu 22.04.5 LTS   5.15.148-tegra      containerd://2.2.4
+ubuntu             NotReady   <none>          43d    v1.29.15   192.168.0.18    <none>        Ubuntu 22.04.5 LTS   5.15.185-tegra      containerd://2.2.1

@@ -1,0 +1,6 @@
+Pod,SelectedNode
+yolo-cls,gpu-orin2
+yolo-det,gpu-orin3
+yolo-seg,gpu-orin3
+yolo-obb,gpu-orin2
+yolo-pos,gpu-orin3

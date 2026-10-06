@@ -1,0 +1,12 @@
+NAME                       READY   STATUS      RESTARTS   AGE    IP             NODE               NOMINATED NODE   READINESS GATES
+cls-engine-build-orin4     0/1     Completed   0          27h    10.244.3.156   gpuorin4-desktop   <none>           <none>
+cls-engine-check-orin2     0/1     Completed   0          27h    <none>         gpu-orin2          <none>           <none>
+cls-engine-inspect-orin4   0/1     Completed   0          28h    10.244.3.155   gpuorin4-desktop   <none>           <none>
+cls-export-orin4           0/1     Completed   0          31h    10.244.3.153   gpuorin4-desktop   <none>           <none>
+obb-engine-build-orin2     0/1     Completed   0          114m   10.244.1.148   gpu-orin2          <none>           <none>
+obb-engine-build-orin4     0/1     Completed   0          112m   10.244.3.157   gpuorin4-desktop   <none>           <none>
+yolo-cls                   1/1     Running     0          38s    10.244.1.238   gpu-orin2          <none>           <none>
+yolo-det                   1/1     Running     0          31s    10.244.2.179   gpu-orin3          <none>           <none>
+yolo-obb                   1/1     Running     0          14s    10.244.2.180   gpu-orin3          <none>           <none>
+yolo-pos                   1/1     Running     0          7s     10.244.1.241   gpu-orin2          <none>           <none>
+yolo-seg                   1/1     Running     0          21s    10.244.1.240   gpu-orin2          <none>           <none>
