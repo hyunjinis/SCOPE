@@ -1,0 +1,86 @@
+--- [Scoring for yolo-cls-1 (Model: yolo-cls)] ---
+17:59:34.771 [Scored] gpu-orin2 -> Penalty: .817544 (P:5616, T:50, CS:30412, CurrentPods:0/5)
+17:59:38.045 [Scored] gpu-orin3 -> Penalty: .711674 (P:4501, T:50, CS:26968, CurrentPods:0/5)
+17:59:41.093 [Scored] gpuorin4-desktop -> Penalty: .349182 (P:4025, T:50, CS:4623, CurrentPods:0/5)
+17:59:43.969 [Scored] gpuorin5-desktop -> Penalty: .399710 (P:5280, T:50, CS:3984, CurrentPods:0/5)
+   -> [Candidate Pool In] gpuorin4-desktop (Diff: 0)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: .050528)
+17:59:44.020 🎯 [Tie-Breaking] 후보군 2대 중 RR 인덱스 0 지정 -> Node [gpuorin4-desktop] 선발!
+>>> Final Decision: gpuorin4-desktop
+--- [Scoring for yolo-det-1 (Model: yolo-det)] ---
+17:59:52.203 [Scored] gpu-orin2 -> Penalty: 1.940342 (P:5467, T:50, CS:30733, CurrentPods:0/5)
+17:59:55.426 [Scored] gpu-orin3 -> Penalty: 1.573679 (P:4501, T:50, CS:23648, CurrentPods:0/5)
+17:59:58.391 [Scored] gpuorin4-desktop -> Penalty: .890103 (P:4647, T:50, CS:4291, CurrentPods:1/5)
+18:00:01.260 [Scored] gpuorin5-desktop -> Penalty: .910649 (P:5160, T:50, CS:3239, CurrentPods:0/5)
+   -> [Candidate Pool In] gpuorin4-desktop (Diff: 0)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: .020546)
+18:00:01.320 🎯 [Tie-Breaking] 후보군 2대 중 RR 인덱스 0 지정 -> Node [gpuorin4-desktop] 선발!
+>>> Final Decision: gpuorin4-desktop
+--- [Scoring for yolo-seg-1 (Model: yolo-seg)] ---
+18:00:09.162 [Scored] gpu-orin2 -> Penalty: 1.508628 (P:5537, T:50, CS:30817, CurrentPods:0/5)
+18:00:12.440 [Scored] gpu-orin3 -> Penalty: 1.277259 (P:4494, T:50, CS:25838, CurrentPods:0/5)
+18:00:15.448 [Scored] gpuorin4-desktop -> Penalty: .721460 (P:4800, T:50, CS:4999, CurrentPods:2/5)
+18:00:18.317 [Scored] gpuorin5-desktop -> Penalty: .837650 (P:5240, T:50, CS:7764, CurrentPods:0/5)
+   -> [Candidate Pool In] gpuorin4-desktop (Diff: 0)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: .116190)
+18:00:18.378 🎯 [Tie-Breaking] 후보군 2대 중 RR 인덱스 0 지정 -> Node [gpuorin4-desktop] 선발!
+>>> Final Decision: gpuorin4-desktop
+--- [Scoring for yolo-obb-1 (Model: yolo-obb)] ---
+18:00:26.281 [Scored] gpu-orin2 -> Penalty: 2.608172 (P:5467, T:50, CS:31056, CurrentPods:0/5)
+18:00:29.454 [Scored] gpu-orin3 -> Penalty: 2.049824 (P:4654, T:50, CS:22072, CurrentPods:0/5)
+18:00:32.471 [Scored] gpuorin4-desktop -> Penalty: 1.311091 (P:5254, T:50, CS:4894, CurrentPods:3/5)
+18:00:35.348 [Scored] gpuorin5-desktop -> Penalty: 1.197899 (P:5160, T:50, CS:2849, CurrentPods:0/5)
+   -> [Candidate Pool In] gpuorin4-desktop (Diff: .113192)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: 0)
+18:00:35.407 🎯 [Tie-Breaking] 후보군 2대 중 RR 인덱스 0 지정 -> Node [gpuorin4-desktop] 선발!
+>>> Final Decision: gpuorin4-desktop
+--- [Scoring for yolo-pos-1 (Model: yolo-pos)] ---
+18:00:43.329 [Scored] gpu-orin2 -> Penalty: 1.897707 (P:5537, T:50, CS:32612, CurrentPods:0/5)
+18:00:46.638 [Scored] gpu-orin3 -> Penalty: 1.646312 (P:4501, T:50, CS:28500, CurrentPods:0/5)
+18:00:49.639 [Scored] gpuorin4-desktop -> Penalty: 1.031307 (P:5870, T:50, CS:6114, CurrentPods:4/5)
+18:00:52.512 [Scored] gpuorin5-desktop -> Penalty: .915597 (P:5240, T:50, CS:4705, CurrentPods:0/5)
+   -> [Candidate Pool In] gpuorin4-desktop (Diff: .115710)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: 0)
+18:00:52.573 🎯 [Tie-Breaking] 후보군 2대 중 RR 인덱스 0 지정 -> Node [gpuorin4-desktop] 선발!
+>>> Final Decision: gpuorin4-desktop
+--- [Scoring for yolo-cls-2 (Model: yolo-cls)] ---
+18:01:00.498 [Scored] gpu-orin2 -> Penalty: .818876 (P:5576, T:50, CS:30626, CurrentPods:0/5)
+18:01:03.642 [Scored] gpu-orin3 -> Penalty: .684728 (P:4534, T:50, CS:25091, CurrentPods:0/5)
+[Filter] gpuorin4-desktop Skip (Capacity Saturated: 5/5 Pods)
+18:01:06.576 [Scored] gpuorin5-desktop -> Penalty: .439930 (P:5280, T:50, CS:6630, CurrentPods:0/5)
+   -> [Candidate Pool In] gpu-orin3 (Diff: .244798)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: 0)
+18:01:06.623 🎯 [Tie-Breaking] 후보군 2대 중 RR 인덱스 0 지정 -> Node [gpu-orin3] 선발!
+>>> Final Decision: gpu-orin3
+--- [Scoring for yolo-det-2 (Model: yolo-det)] ---
+18:01:15.076 [Scored] gpu-orin2 -> Penalty: 1.910416 (P:5427, T:50, CS:30032, CurrentPods:0/5)
+18:01:18.092 [Scored] gpu-orin3 -> Penalty: 1.845049 (P:5200, T:50, CS:28942, CurrentPods:1/5)
+[Filter] gpuorin4-desktop Skip (Capacity Saturated: 5/5 Pods)
+18:01:21.017 [Scored] gpuorin5-desktop -> Penalty: .916918 (P:5200, T:50, CS:3286, CurrentPods:0/5)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: 0)
+18:01:21.063 🎯 [Tie-Breaking] 후보군 1대 중 RR 인덱스 0 지정 -> Node [gpuorin5-desktop] 선발!
+>>> Final Decision: gpuorin5-desktop
+--- [Scoring for yolo-seg-2 (Model: yolo-seg)] ---
+18:01:29.108 [Scored] gpu-orin2 -> Penalty: 1.494000 (P:5467, T:50, CS:30515, CurrentPods:0/5)
+18:01:32.171 [Scored] gpu-orin3 -> Penalty: 1.490249 (P:5080, T:50, CS:31603, CurrentPods:1/5)
+[Filter] gpuorin4-desktop Skip (Capacity Saturated: 5/5 Pods)
+18:01:35.053 [Scored] gpuorin5-desktop -> Penalty: .764021 (P:5920, T:50, CS:2984, CurrentPods:1/5)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: 0)
+18:01:35.099 🎯 [Tie-Breaking] 후보군 1대 중 RR 인덱스 0 지정 -> Node [gpuorin5-desktop] 선발!
+>>> Final Decision: gpuorin5-desktop
+--- [Scoring for yolo-obb-2 (Model: yolo-obb)] ---
+18:01:43.179 [Scored] gpu-orin2 -> Penalty: 2.597344 (P:5467, T:50, CS:30832, CurrentPods:0/5)
+18:01:46.726 [Scored] gpu-orin3 -> Penalty: 2.299375 (P:4501, T:50, CS:27718, CurrentPods:1/5)
+[Filter] gpuorin4-desktop Skip (Capacity Saturated: 5/5 Pods)
+18:01:49.619 [Scored] gpuorin5-desktop -> Penalty: 1.356883 (P:6200, T:50, CS:2854, CurrentPods:2/5)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: 0)
+18:01:49.665 🎯 [Tie-Breaking] 후보군 1대 중 RR 인덱스 0 지정 -> Node [gpuorin5-desktop] 선발!
+>>> Final Decision: gpuorin5-desktop
+--- [Scoring for yolo-pos-2 (Model: yolo-pos)] ---
+18:01:57.295 [Scored] gpu-orin2 -> Penalty: 1.800301 (P:5576, T:50, CS:29628, CurrentPods:0/5)
+18:02:00.556 [Scored] gpu-orin3 -> Penalty: 1.575192 (P:4534, T:50, CS:26307, CurrentPods:1/5)
+[Filter] gpuorin4-desktop Skip (Capacity Saturated: 5/5 Pods)
+18:02:03.474 [Scored] gpuorin5-desktop -> Penalty: 1.026399 (P:7028, T:50, CS:2313, CurrentPods:3/5)
+   -> [Candidate Pool In] gpuorin5-desktop (Diff: 0)
+18:02:03.519 🎯 [Tie-Breaking] 후보군 1대 중 RR 인덱스 0 지정 -> Node [gpuorin5-desktop] 선발!
+>>> Final Decision: gpuorin5-desktop

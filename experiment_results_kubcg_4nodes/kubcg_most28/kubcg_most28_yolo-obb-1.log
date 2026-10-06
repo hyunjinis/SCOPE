@@ -1,0 +1,110 @@
+Creating new Ultralytics Settings v0.0.6 file ✅ 
+View Ultralytics Settings with 'yolo settings' or at '/root/.config/Ultralytics/settings.json'
+Update Settings with 'yolo settings key=value', i.e. 'yolo settings runs_dir=path/to/dir'. For help see https://docs.ultralytics.com/quickstart/#ultralytics-settings.
+Loading models/yolo11n-obb_trt10.engine for TensorRT inference...
+[07/07/2026-07:14:24] [TRT] [I] Loaded engine size: 12 MiB
+[07/07/2026-07:14:24] [TRT] [W] Using an engine plan file across different models of devices is not recommended and is likely to affect performance or even cause errors.
+[07/07/2026-07:14:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +50, now: CPU 0, GPU 60 (MiB)
+
+image 1/100 /mnt/yolo/data/dota_src/images/P0027.jpg: 1024x1024 29 harbors, 66.8ms
+image 2/100 /mnt/yolo/data/dota_src/images/P0047.jpg: 1024x1024 3 baseball diamonds, 1 ground track field, 1 soccer ball field, 60.2ms
+image 3/100 /mnt/yolo/data/dota_src/images/P0056.jpg: 1024x1024 7 large vehicles, 8 small vehicles, 62.4ms
+image 4/100 /mnt/yolo/data/dota_src/images/P0060.jpg: 1024x1024 145 swimming pools, 60.8ms
+image 5/100 /mnt/yolo/data/dota_src/images/P0075.jpg: 1024x1024 1 roundabout, 1 swimming pool, 66.7ms
+image 6/100 /mnt/yolo/data/dota_src/images/P0079.jpg: 1024x1024 2 small vehicles, 1 roundabout, 1 swimming pool, 47.9ms
+image 7/100 /mnt/yolo/data/dota_src/images/P0168.jpg: 1024x1024 33 planes, 8 helicopters, 1 roundabout, 64.2ms
+image 8/100 /mnt/yolo/data/dota_src/images/P0170.jpg: 1024x1024 27 planes, 4 large vehicles, 26 small vehicles, 56.5ms
+image 9/100 /mnt/yolo/data/dota_src/images/P0175.jpg: 1024x1024 10 tennis courts, 2 small vehicles, 59.2ms
+image 10/100 /mnt/yolo/data/dota_src/images/P0206.jpg: 1024x1024 10 tennis courts, 1 small vehicle, 66.3ms
+image 11/100 /mnt/yolo/data/dota_src/images/P0237.jpg: 1024x1024 8 tennis courts, 12 small vehicles, 39.0ms
+image 12/100 /mnt/yolo/data/dota_src/images/P0246.jpg: 1024x1024 25 large vehicles, 9 small vehicles, 67.1ms
+image 13/100 /mnt/yolo/data/dota_src/images/P0257.jpg: 1024x1024 31 planes, 1 large vehicle, 44.3ms
+image 14/100 /mnt/yolo/data/dota_src/images/P0261.jpg: 1024x1024 (no detections), 59.2ms
+image 15/100 /mnt/yolo/data/dota_src/images/P0309.jpg: 1024x1024 7 harbors, 32.7ms
+image 16/100 /mnt/yolo/data/dota_src/images/P0347.jpg: 1024x1024 1 ship, 8 harbors, 2 small vehicles, 58.8ms
+image 17/100 /mnt/yolo/data/dota_src/images/P0348.jpg: 1024x1024 1 ship, 5 harbors, 51.2ms
+image 18/100 /mnt/yolo/data/dota_src/images/P0352.jpg: 1024x1024 2 baseball diamonds, 5 tennis courts, 9 small vehicles, 51.1ms
+image 19/100 /mnt/yolo/data/dota_src/images/P0396.jpg: 1024x1024 7 tennis courts, 43.1ms
+image 20/100 /mnt/yolo/data/dota_src/images/P0414.jpg: 1024x1024 6 ships, 8 harbors, 12 small vehicles, 51.2ms
+image 21/100 /mnt/yolo/data/dota_src/images/P0486.jpg: 1024x1024 26 large vehicles, 42 small vehicles, 43.1ms
+image 22/100 /mnt/yolo/data/dota_src/images/P0499.jpg: 1024x1024 6 tennis courts, 6 small vehicles, 48.3ms
+image 23/100 /mnt/yolo/data/dota_src/images/P0550.jpg: 1024x1024 6 ships, 11 harbors, 45.7ms
+image 24/100 /mnt/yolo/data/dota_src/images/P0579.jpg: 1024x1024 1 ship, 8 harbors, 49.3ms
+image 25/100 /mnt/yolo/data/dota_src/images/P0604.jpg: 1024x1024 11 harbors, 7 small vehicles, 1 swimming pool, 42.5ms
+image 26/100 /mnt/yolo/data/dota_src/images/P0712.jpg: 1024x1024 36 large vehicles, 22 small vehicles, 43.7ms
+image 27/100 /mnt/yolo/data/dota_src/images/P0795.jpg: 1024x1024 290 ships, 9 harbors, 1 swimming pool, 51.1ms
+image 28/100 /mnt/yolo/data/dota_src/images/P0801.jpg: 1024x1024 291 ships, 9 harbors, 59.5ms
+image 29/100 /mnt/yolo/data/dota_src/images/P0815.jpg: 1024x1024 1 baseball diamond, 6 tennis courts, 1 soccer ball field, 50.7ms
+image 30/100 /mnt/yolo/data/dota_src/images/P0953.jpg: 1024x1024 11 harbors, 1 swimming pool, 51.3ms
+image 31/100 /mnt/yolo/data/dota_src/images/P0964.jpg: 1024x1024 13 harbors, 1 small vehicle, 1 swimming pool, 57.4ms
+image 32/100 /mnt/yolo/data/dota_src/images/P0977.jpg: 1024x1024 14 harbors, 4 small vehicles, 58.9ms
+image 33/100 /mnt/yolo/data/dota_src/images/P1007.jpg: 1024x1024 50 harbors, 62.6ms
+image 34/100 /mnt/yolo/data/dota_src/images/P1051.jpg: 1024x1024 8 tennis courts, 1 large vehicle, 99 small vehicles, 68.5ms
+image 35/100 /mnt/yolo/data/dota_src/images/P1099.jpg: 1024x1024 7 tennis courts, 4 small vehicles, 2 swimming pools, 56.5ms
+image 36/100 /mnt/yolo/data/dota_src/images/P1101.jpg: 1024x1024 6 tennis courts, 2 small vehicles, 61.0ms
+image 37/100 /mnt/yolo/data/dota_src/images/P1134.jpg: 1024x1024 2 planes, 49.7ms
+image 38/100 /mnt/yolo/data/dota_src/images/P1178.jpg: 1024x1024 11 planes, 2 storage tanks, 1 helicopter, 64.5ms
+image 39/100 /mnt/yolo/data/dota_src/images/P1189.jpg: 1024x1024 9 tennis courts, 2 basketball courts, 52.1ms
+image 40/100 /mnt/yolo/data/dota_src/images/P1212.jpg: 1024x1024 1 ship, 58.8ms
+image 41/100 /mnt/yolo/data/dota_src/images/P1219.jpg: 1024x1024 (no detections), 51.2ms
+image 42/100 /mnt/yolo/data/dota_src/images/P1234.jpg: 1024x1024 11 ships, 56 storage tanks, 3 bridges, 63.2ms
+image 43/100 /mnt/yolo/data/dota_src/images/P1240.jpg: 1024x1024 5 ground track fields, 8 bridges, 1 roundabout, 59.9ms
+image 44/100 /mnt/yolo/data/dota_src/images/P1246.jpg: 1024x1024 3 ships, 2 bridges, 51.8ms
+image 45/100 /mnt/yolo/data/dota_src/images/P1257.jpg: 1024x1024 3 ground track fields, 2 bridges, 54.8ms
+image 46/100 /mnt/yolo/data/dota_src/images/P1268.jpg: 1024x1024 5 ships, 6 bridges, 61.1ms
+image 47/100 /mnt/yolo/data/dota_src/images/P1275.jpg: 1024x1024 29 ships, 1 harbor, 52.4ms
+image 48/100 /mnt/yolo/data/dota_src/images/P1278.jpg: 1024x1024 1 ship, 1 harbor, 67.5ms
+image 49/100 /mnt/yolo/data/dota_src/images/P1283.jpg: 1024x1024 1 harbor, 63.1ms
+image 50/100 /mnt/yolo/data/dota_src/images/P1315.jpg: 1024x1024 7 bridges, 60.5ms
+image 51/100 /mnt/yolo/data/dota_src/images/P1323.jpg: 1024x1024 10 bridges, 55.0ms
+image 52/100 /mnt/yolo/data/dota_src/images/P1356.jpg: 1024x1024 5 ships, 4 bridges, 67.5ms
+image 53/100 /mnt/yolo/data/dota_src/images/P1373.jpg: 1024x1024 42 planes, 15 storage tanks, 4 ground track fields, 1 soccer ball field, 61.2ms
+image 54/100 /mnt/yolo/data/dota_src/images/P1376.jpg: 1024x1024 20 planes, 67.7ms
+image 55/100 /mnt/yolo/data/dota_src/images/P1377.jpg: 1024x1024 1 tennis court, 1 roundabout, 3 soccer ball fields, 28 swimming pools, 70.9ms
+image 56/100 /mnt/yolo/data/dota_src/images/P1432.jpg: 1024x1024 1 basketball court, 4 ground track fields, 2 soccer ball fields, 82.0ms
+image 57/100 /mnt/yolo/data/dota_src/images/P1471.jpg: 1024x1024 3 basketball courts, 2 ground track fields, 1 soccer ball field, 59.0ms
+image 58/100 /mnt/yolo/data/dota_src/images/P1474.jpg: 1024x1024 23 planes, 63.6ms
+image 59/100 /mnt/yolo/data/dota_src/images/P1492.jpg: 1024x1024 5 planes, 46.7ms
+image 60/100 /mnt/yolo/data/dota_src/images/P1541.jpg: 1024x1024 (no detections), 53.4ms
+image 61/100 /mnt/yolo/data/dota_src/images/P1557.jpg: 1024x1024 (no detections), 59.6ms
+image 62/100 /mnt/yolo/data/dota_src/images/P1584.jpg: 1024x1024 8 baseball diamonds, 3 ground track fields, 1 soccer ball field, 45.0ms
+image 63/100 /mnt/yolo/data/dota_src/images/P1596.jpg: 1024x1024 1 ground track field, 67.5ms
+image 64/100 /mnt/yolo/data/dota_src/images/P1610.jpg: 1024x1024 1 baseball diamond, 2 bridges, 49.7ms
+image 65/100 /mnt/yolo/data/dota_src/images/P1623.jpg: 1024x1024 (no detections), 50.1ms
+image 66/100 /mnt/yolo/data/dota_src/images/P1647.jpg: 1024x1024 9 storage tanks, 4 baseball diamonds, 1 ground track field, 3 bridges, 61.6ms
+image 67/100 /mnt/yolo/data/dota_src/images/P1650.jpg: 1024x1024 6 baseball diamonds, 1 ground track field, 57.3ms
+image 68/100 /mnt/yolo/data/dota_src/images/P1679.jpg: 1024x1024 (no detections), 57.4ms
+image 69/100 /mnt/yolo/data/dota_src/images/P1700.jpg: 1024x1024 (no detections), 64.3ms
+image 70/100 /mnt/yolo/data/dota_src/images/P1720.jpg: 1024x1024 2 roundabouts, 75.2ms
+image 71/100 /mnt/yolo/data/dota_src/images/P1732.jpg: 1024x1024 4 baseball diamonds, 3 ground track fields, 1 bridge, 42.6ms
+image 72/100 /mnt/yolo/data/dota_src/images/P1752.jpg: 1024x1024 1 ground track field, 2 bridges, 74.5ms
+image 73/100 /mnt/yolo/data/dota_src/images/P1763.jpg: 1024x1024 (no detections), 51.4ms
+image 74/100 /mnt/yolo/data/dota_src/images/P1786.jpg: 1024x1024 25 tennis courts, 1 ground track field, 4 harbors, 2 small vehicles, 2 soccer ball fields, 58.0ms
+image 75/100 /mnt/yolo/data/dota_src/images/P1787.jpg: 1024x1024 30 large vehicles, 14 small vehicles, 55.0ms
+image 76/100 /mnt/yolo/data/dota_src/images/P1838.jpg: 1024x1024 26 large vehicles, 12 small vehicles, 67.9ms
+image 77/100 /mnt/yolo/data/dota_src/images/P1860.jpg: 1024x1024 1 ship, 12 large vehicles, 14 small vehicles, 61.9ms
+image 78/100 /mnt/yolo/data/dota_src/images/P1924.jpg: 1024x1024 30 large vehicles, 15 small vehicles, 64.4ms
+image 79/100 /mnt/yolo/data/dota_src/images/P1958.jpg: 1024x1024 53 large vehicles, 10 small vehicles, 64.9ms
+image 80/100 /mnt/yolo/data/dota_src/images/P1982.jpg: 1024x1024 94 large vehicles, 44 small vehicles, 65.7ms
+image 81/100 /mnt/yolo/data/dota_src/images/P2003.jpg: 1024x1024 36 large vehicles, 58 small vehicles, 61.9ms
+image 82/100 /mnt/yolo/data/dota_src/images/P2121.jpg: 1024x1024 1 baseball diamond, 8 tennis courts, 1 ground track field, 2 soccer ball fields, 57.1ms
+image 83/100 /mnt/yolo/data/dota_src/images/P2124.jpg: 1024x1024 178 large vehicles, 3 small vehicles, 59.8ms
+image 84/100 /mnt/yolo/data/dota_src/images/P2152.jpg: 1024x1024 1 large vehicle, 15 small vehicles, 1 swimming pool, 59.6ms
+image 85/100 /mnt/yolo/data/dota_src/images/P2155.jpg: 1024x1024 60 large vehicles, 19 small vehicles, 57.0ms
+image 86/100 /mnt/yolo/data/dota_src/images/P2194.jpg: 1024x1024 3 baseball diamonds, 9 tennis courts, 1 basketball court, 1 ground track field, 1 large vehicle, 3 soccer ball fields, 64.8ms
+image 87/100 /mnt/yolo/data/dota_src/images/P2218.jpg: 1024x1024 12 planes, 62.6ms
+image 88/100 /mnt/yolo/data/dota_src/images/P2220.jpg: 1024x1024 7 planes, 64.4ms
+image 89/100 /mnt/yolo/data/dota_src/images/P2241.jpg: 1024x1024 3 baseball diamonds, 9 tennis courts, 3 large vehicles, 1 swimming pool, 39.0ms
+image 90/100 /mnt/yolo/data/dota_src/images/P2285.jpg: 1024x1024 85 ships, 50.1ms
+image 91/100 /mnt/yolo/data/dota_src/images/P2322.jpg: 1024x1024 5 ships, 58.2ms
+image 92/100 /mnt/yolo/data/dota_src/images/P2337.jpg: 1024x1024 1 ship, 24 storage tanks, 2 bridges, 58.9ms
+image 93/100 /mnt/yolo/data/dota_src/images/P2413.jpg: 1024x1024 2 roundabouts, 53.9ms
+image 94/100 /mnt/yolo/data/dota_src/images/P2477.jpg: 1024x1024 2 roundabouts, 66.4ms
+image 95/100 /mnt/yolo/data/dota_src/images/P2478.jpg: 1024x1024 2 roundabouts, 65.4ms
+image 96/100 /mnt/yolo/data/dota_src/images/P2502.jpg: 1024x1024 5 ground track fields, 1 roundabout, 4 soccer ball fields, 49.8ms
+image 97/100 /mnt/yolo/data/dota_src/images/P2539.jpg: 1024x1024 2 roundabouts, 1 soccer ball field, 64.1ms
+image 98/100 /mnt/yolo/data/dota_src/images/P2577.jpg: 1024x1024 7 tennis courts, 56.5ms
+image 99/100 /mnt/yolo/data/dota_src/images/P2689.jpg: 1024x1024 30 planes, 4 storage tanks, 1 bridge, 1 roundabout, 52.0ms
+image 100/100 /mnt/yolo/data/dota_src/images/P2709.jpg: 1024x1024 7 ships, 94 storage tanks, 1 large vehicle, 51.4ms
+Speed: 24.6ms preprocess, 57.4ms inference, 10.3ms postprocess per image at shape (1, 3, 1024, 1024)
+Results saved to [1m/ultralytics/runs/obb/runs/obb_1[0m
